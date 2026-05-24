@@ -1,0 +1,176 @@
+SIMULATED ANNEALING LOG
+
+Step=0 | Candidate=92.200 | Current=92.200 | Best=92.210 | Delta=-0.010 | Prob=1.0000 | T=4.8862 | Swap=[Goblin Arsonist] -> [Firedrinker Satyr] | Accepted=True
+Step=1 | Candidate=92.120 | Current=92.120 | Best=92.210 | Delta=-0.080 | Prob=1.0000 | T=4.7750 | Swap=[Grim Lavamancer] -> [Goblin Lackey] | Accepted=True
+Step=2 | Candidate=92.100 | Current=92.100 | Best=92.210 | Delta=-0.020 | Prob=1.0000 | T=4.6663 | Swap=[Incinerate] -> [Mizzium Mortars] | Accepted=True
+Step=3 | Candidate=91.760 | Current=91.760 | Best=92.210 | Delta=-0.340 | Prob=1.0000 | T=4.5601 | Swap=[Hero of Oxid Ridge] -> [Stingscourger] | Accepted=True
+Step=4 | Candidate=92.137 | Current=92.137 | Best=92.210 | Delta=0.377 | Prob=1.0000 | T=4.4563 | Swap=[Incinerate] -> [Arid Mesa] | Accepted=True
+Step=5 | Candidate=91.941 | Current=91.941 | Best=92.210 | Delta=-0.196 | Prob=1.0000 | T=4.3548 | Swap=[Stingscourger] -> [Goblin Matron] | Accepted=True
+Step=6 | Candidate=92.157 | Current=92.157 | Best=92.210 | Delta=0.216 | Prob=1.0000 | T=4.2557 | Swap=[Incinerate] -> [Koth of the Hammer] | Accepted=True
+Step=7 | Candidate=91.529 | Current=91.529 | Best=92.210 | Delta=-0.627 | Prob=1.0000 | T=4.1588 | Swap=[Mizzium Mortars] -> [Burst Lightning] | Accepted=True
+Step=8 | Candidate=88.274 | Current=88.274 | Best=92.210 | Delta=-3.256 | Prob=1.0000 | T=4.0642 | Swap=[Grim Lavamancer] -> [Pyreheart Wolf] | Accepted=True
+Step=9 | Candidate=91.981 | Current=91.981 | Best=92.210 | Delta=3.707 | Prob=1.0000 | T=3.9716 | Swap=[Brimstone Volley] -> [Blood Crypt] | Accepted=True
+Step=10 | Candidate=92.269 | Current=92.269 | Best=92.269 | Delta=0.288 | Prob=1.0000 | T=3.8812 | Swap=[Goblin Matron] -> [Goblin Lackey] | Accepted=True
+Step=11 | Candidate=92.000 | Current=92.000 | Best=92.269 | Delta=-0.269 | Prob=1.0000 | T=3.7929 | Swap=[Volt Charge] -> [Blood Crypt] | Accepted=True
+Step=12 | Candidate=91.547 | Current=91.547 | Best=92.269 | Delta=-0.453 | Prob=1.0000 | T=3.7066 | Swap=[Stromkirk Noble] -> [Spikeshot Elder] | Accepted=True
+Step=13 | Candidate=92.302 | Current=92.302 | Best=92.302 | Delta=0.755 | Prob=1.0000 | T=3.6222 | Swap=[Koth of the Hammer] -> [Lava Spike] | Accepted=True
+Step=14 | Candidate=92.245 | Current=92.245 | Best=92.302 | Delta=-0.057 | Prob=1.0000 | T=3.5397 | Swap=[Stromkirk Noble] -> [Goblin Matron] | Accepted=True
+Step=15 | Candidate=92.377 | Current=92.377 | Best=92.377 | Delta=0.132 | Prob=1.0000 | T=3.4592 | Swap=[Grim Lavamancer] -> [Keldon Marauders] | Accepted=True
+Step=16 | Candidate=92.241 | Current=92.241 | Best=92.377 | Delta=-0.137 | Prob=1.0000 | T=3.3804 | Swap=[Spikeshot Elder] -> [Reckless Waif] | Accepted=True
+Step=17 | Candidate=92.074 | Current=92.074 | Best=92.377 | Delta=-0.167 | Prob=1.0000 | T=3.3035 | Swap=[Burst Lightning] -> [Lightning Bolt] | Accepted=True
+Step=18 | Candidate=92.370 | Current=92.370 | Best=92.377 | Delta=0.296 | Prob=1.0000 | T=3.2283 | Swap=[Koth of the Hammer] -> [Searing Spear] | Accepted=True
+Step=19 | Candidate=92.185 | Current=92.185 | Best=92.377 | Delta=-0.185 | Prob=1.0000 | T=3.1548 | Swap=[Stromkirk Noble] -> [Mogg Fanatic] | Accepted=True
+Step=20 | Candidate=92.455 | Current=92.455 | Best=92.455 | Delta=0.269 | Prob=1.0000 | T=3.0830 | Swap=[Gut Shot] -> [Blood Crypt] | Accepted=True
+Step=21 | Candidate=92.164 | Current=92.164 | Best=92.455 | Delta=-0.291 | Prob=1.0000 | T=3.0128 | Swap=[Goblin Lackey] -> [Spikeshot Elder] | Accepted=True
+Step=22 | Candidate=92.564 | Current=92.564 | Best=92.564 | Delta=0.400 | Prob=1.0000 | T=2.9442 | Swap=[Firedrinker Satyr] -> [Zealous Conscripts] | Accepted=True
+Step=23 | Candidate=92.364 | Current=92.564 | Best=92.564 | Delta=-0.200 | Prob=1.0000 | T=2.8772 | Swap=[Goblin Lackey] -> [Rakdos Cackler] | Accepted=False
+Step=24 | Candidate=92.500 | Current=92.500 | Best=92.564 | Delta=-0.064 | Prob=1.0000 | T=2.8117 | Swap=[Stormblood Berserker] -> [Plated Geopede] | Accepted=True
+Step=25 | Candidate=92.536 | Current=92.536 | Best=92.564 | Delta=0.036 | Prob=1.0000 | T=2.7477 | Swap=[Reckless Waif] -> [Goblin Bushwhacker] | Accepted=True
+Step=26 | Candidate=92.429 | Current=92.429 | Best=92.564 | Delta=-0.107 | Prob=1.0000 | T=2.6852 | Swap=[Shrine of Burning Rage] -> [Pillar of Flame] | Accepted=True
+Step=27 | Candidate=92.304 | Current=92.429 | Best=92.564 | Delta=-0.125 | Prob=1.0000 | T=2.6240 | Swap=[Pillar of Flame] -> [Wasteland] | Accepted=False
+Step=28 | Candidate=92.754 | Current=92.754 | Best=92.754 | Delta=0.326 | Prob=1.0000 | T=2.5643 | Swap=[Plated Geopede] -> [Hellspark Elemental] | Accepted=True
+Step=29 | Candidate=92.667 | Current=92.667 | Best=92.754 | Delta=-0.088 | Prob=1.0000 | T=2.5059 | Swap=[Pyreheart Wolf] -> [Gore-House Chainwalker] | Accepted=True
+Step=30 | Candidate=92.754 | Current=92.754 | Best=92.754 | Delta=0.088 | Prob=1.0000 | T=2.4489 | Swap=[Gut Shot] -> [Pyrokinesis] | Accepted=True
+Step=31 | Candidate=92.667 | Current=92.667 | Best=92.754 | Delta=-0.088 | Prob=1.0000 | T=2.3932 | Swap=[Keldon Marauders] -> [Reckless Waif] | Accepted=True
+Step=32 | Candidate=92.655 | Current=92.655 | Best=92.754 | Delta=-0.011 | Prob=1.0000 | T=2.3387 | Swap=[Lightning Bolt] -> [Blackcleave Cliffs] | Accepted=True
+Step=33 | Candidate=92.724 | Current=92.724 | Best=92.754 | Delta=0.069 | Prob=1.0000 | T=2.2854 | Swap=[Chandra's Phoenix] -> [Goblin Warchief] | Accepted=True
+Step=34 | Candidate=92.672 | Current=92.672 | Best=92.754 | Delta=-0.052 | Prob=1.0000 | T=2.2334 | Swap=[Hellspark Elemental] -> [Gempalm Incinerator] | Accepted=True
+Step=35 | Candidate=92.552 | Current=92.552 | Best=92.754 | Delta=-0.121 | Prob=1.0000 | T=2.1826 | Swap=[Chandra's Phoenix] -> [Burning-Tree Emissary] | Accepted=True
+Step=36 | Candidate=92.390 | Current=92.390 | Best=92.754 | Delta=-0.162 | Prob=1.0000 | T=2.1329 | Swap=[Stormblood Berserker] -> [Grim Lavamancer] | Accepted=True
+Step=37 | Candidate=92.712 | Current=92.712 | Best=92.754 | Delta=0.322 | Prob=1.0000 | T=2.0843 | Swap=[Searing Spear] -> [Domri Rade] | Accepted=True
+Step=38 | Candidate=92.373 | Current=92.373 | Best=92.754 | Delta=-0.339 | Prob=1.0000 | T=2.0369 | Swap=[Lava Spike] -> [Searing Blaze] | Accepted=True
+Step=39 | Candidate=92.458 | Current=92.458 | Best=92.754 | Delta=0.085 | Prob=1.0000 | T=1.9905 | Swap=[Chandra's Phoenix] -> [Gore-House Chainwalker] | Accepted=True
+Step=40 | Candidate=92.250 | Current=92.250 | Best=92.754 | Delta=-0.208 | Prob=1.0000 | T=1.9452 | Swap=[Pyrokinesis] -> [Stomping Ground] | Accepted=True
+Step=41 | Candidate=92.133 | Current=92.133 | Best=92.754 | Delta=-0.117 | Prob=1.0000 | T=1.9009 | Swap=[Gempalm Incinerator] -> [Goblin Matron] | Accepted=True
+Step=42 | Candidate=92.317 | Current=92.317 | Best=92.754 | Delta=0.183 | Prob=1.0000 | T=1.8577 | Swap=[Reckless Waif] -> [Siege-Gang Commander] | Accepted=True
+Step=43 | Candidate=92.300 | Current=92.300 | Best=92.754 | Delta=-0.017 | Prob=1.0000 | T=1.8154 | Swap=[Arc Trail] -> [Taiga] | Accepted=True
+Step=44 | Candidate=92.705 | Current=92.705 | Best=92.754 | Delta=0.405 | Prob=1.0000 | T=1.7741 | Swap=[Goblin Lackey] -> [Hellrider] | Accepted=True
+Step=45 | Candidate=92.541 | Current=92.705 | Best=92.754 | Delta=-0.164 | Prob=1.0000 | T=1.7337 | Swap=[Pillar of Flame] -> [Pyrostatic Pillar] | Accepted=False
+Step=46 | Candidate=92.475 | Current=92.475 | Best=92.754 | Delta=-0.230 | Prob=1.0000 | T=1.6942 | Swap=[Goblin Matron] -> [Stingscourger] | Accepted=True
+Step=47 | Candidate=92.951 | Current=92.951 | Best=92.951 | Delta=0.475 | Prob=1.0000 | T=1.6557 | Swap=[Siege-Gang Commander] -> [Ghor-Clan Rampager] | Accepted=True
+Step=48 | Candidate=93.097 | Current=93.097 | Best=93.097 | Delta=0.146 | Prob=1.0000 | T=1.6180 | Swap=[Goblin Matron] -> [Stingscourger] | Accepted=True
+Step=49 | Candidate=92.839 | Current=92.839 | Best=93.097 | Delta=-0.258 | Prob=1.0000 | T=1.5811 | Swap=[Koth of the Hammer] -> [Lightning Bolt] | Accepted=True
+Step=50 | Candidate=92.887 | Current=92.887 | Best=93.097 | Delta=0.048 | Prob=1.0000 | T=1.5451 | Swap=[Goblin Bushwhacker] -> [Grim Lavamancer] | Accepted=True
+Step=51 | Candidate=92.694 | Current=92.694 | Best=93.097 | Delta=-0.194 | Prob=1.0000 | T=1.5100 | Swap=[Searing Blaze] -> [Pyrostatic Pillar] | Accepted=True
+Step=52 | Candidate=92.794 | Current=92.794 | Best=93.097 | Delta=0.100 | Prob=1.0000 | T=1.4756 | Swap=[Pillar of Flame] -> [Rootbound Crag] | Accepted=True
+Step=53 | Candidate=92.905 | Current=92.905 | Best=93.097 | Delta=0.111 | Prob=1.0000 | T=1.4420 | Swap=[Gore-House Chainwalker] -> [Grim Lavamancer] | Accepted=True
+Step=54 | Candidate=92.714 | Current=92.714 | Best=93.097 | Delta=-0.190 | Prob=1.0000 | T=1.4092 | Swap=[Spikeshot Elder] -> [Mogg Fanatic] | Accepted=True
+Step=55 | Candidate=92.683 | Current=92.683 | Best=93.097 | Delta=-0.032 | Prob=1.0000 | T=1.3771 | Swap=[Goblin Warchief] -> [Hellspark Elemental] | Accepted=True
+Step=56 | Candidate=92.938 | Current=92.938 | Best=93.097 | Delta=0.255 | Prob=1.0000 | T=1.3458 | Swap=[Spikeshot Elder] -> [Goblin Sharpshooter] | Accepted=True
+Step=57 | Candidate=92.875 | Current=92.875 | Best=93.097 | Delta=-0.062 | Prob=1.0000 | T=1.3151 | Swap=[Stormblood Berserker] -> [Lightning Mauler] | Accepted=True
+Step=58 | Candidate=92.656 | Current=92.656 | Best=93.097 | Delta=-0.219 | Prob=1.0000 | T=1.2852 | Swap=[Hellspark Elemental] -> [Manic Vandal] | Accepted=True
+Step=59 | Candidate=93.016 | Current=93.016 | Best=93.097 | Delta=0.359 | Prob=1.0000 | T=1.2559 | Swap=[Stormblood Berserker] -> [Burning-Tree Emissary] | Accepted=True
+Step=60 | Candidate=92.985 | Current=92.985 | Best=93.097 | Delta=-0.031 | Prob=1.0000 | T=1.2274 | Swap=[Shrine of Burning Rage] -> [Chandra, Pyromaster] | Accepted=True
+Step=61 | Candidate=93.262 | Current=93.262 | Best=93.262 | Delta=0.277 | Prob=1.0000 | T=1.1994 | Swap=[Domri Rade] -> [Pillar of Flame] | Accepted=True
+Step=62 | Candidate=92.831 | Current=93.262 | Best=93.262 | Delta=-0.431 | Prob=1.0000 | T=1.1721 | Swap=[Stromkirk Noble] -> [Spikeshot Elder] | Accepted=False
+Step=63 | Candidate=93.154 | Current=93.154 | Best=93.262 | Delta=-0.108 | Prob=1.0000 | T=1.1454 | Swap=[Pillar of Flame] -> [Mutavault] | Accepted=True
+Step=64 | Candidate=93.121 | Current=93.121 | Best=93.262 | Delta=-0.033 | Prob=1.0000 | T=1.1194 | Swap=[Grim Lavamancer] -> [Lightning Mauler] | Accepted=True
+Step=65 | Candidate=93.061 | Current=93.061 | Best=93.262 | Delta=-0.061 | Prob=1.0000 | T=1.0939 | Swap=[Shrine of Burning Rage] -> [Pillar of Flame] | Accepted=True
+Step=66 | Candidate=93.288 | Current=93.288 | Best=93.288 | Delta=0.227 | Prob=1.0000 | T=1.0690 | Swap=[Mogg Fanatic] -> [Vulshok Refugee] | Accepted=True
+Step=67 | Candidate=93.288 | Current=93.288 | Best=93.288 | Delta=0.000 | Prob=1.0000 | T=1.0446 | Swap=[Chandra, Pyromaster] -> [Lava Spike] | Accepted=True
+Step=68 | Candidate=93.299 | Current=93.299 | Best=93.299 | Delta=0.011 | Prob=1.0000 | T=1.0209 | Swap=[Manic Vandal] -> [Flinthoof Boar] | Accepted=True
+Step=69 | Candidate=93.328 | Current=93.328 | Best=93.328 | Delta=0.030 | Prob=1.0000 | T=0.9976 | Swap=[Gore-House Chainwalker] -> [Keldon Marauders] | Accepted=True
+Step=70 | Candidate=93.537 | Current=93.537 | Best=93.537 | Delta=0.209 | Prob=1.0000 | T=0.9749 | Swap=[Arc Trail] -> [Price of Progress] | Accepted=True
+Step=71 | Candidate=91.947 | Current=93.537 | Best=93.537 | Delta=-1.590 | Prob=1.0000 | T=0.9527 | Swap=[Spikeshot Elder] -> [Gore-House Chainwalker] | Accepted=False
+Step=72 | Candidate=93.397 | Current=93.537 | Best=93.537 | Delta=-0.140 | Prob=1.0000 | T=0.9310 | Swap=[Reckless Waif] -> [Ash Zealot] | Accepted=False
+Step=73 | Candidate=93.559 | Current=93.559 | Best=93.559 | Delta=0.022 | Prob=1.0000 | T=0.9099 | Swap=[Vulshok Refugee] -> [Fanatic of Mogis] | Accepted=True
+Step=74 | Candidate=93.412 | Current=93.559 | Best=93.559 | Delta=-0.147 | Prob=1.0000 | T=0.8891 | Swap=[Chandra's Phoenix] -> [Plated Geopede] | Accepted=False
+Step=75 | Candidate=93.618 | Current=93.618 | Best=93.618 | Delta=0.059 | Prob=1.0000 | T=0.8689 | Swap=[Pillar of Flame] -> [Arid Mesa] | Accepted=True
+Step=76 | Candidate=93.232 | Current=93.232 | Best=93.618 | Delta=-0.386 | Prob=1.0000 | T=0.8491 | Swap=[Ghor-Clan Rampager] -> [Stingscourger] | Accepted=True
+Step=77 | Candidate=93.116 | Current=93.116 | Best=93.618 | Delta=-0.116 | Prob=1.0000 | T=0.8298 | Swap=[Stingscourger] -> [Pyreheart Wolf] | Accepted=True
+Step=78 | Candidate=93.130 | Current=93.130 | Best=93.618 | Delta=0.014 | Prob=1.0000 | T=0.8109 | Swap=[Mogg Fanatic] -> [Goblin Piledriver] | Accepted=True
+Step=79 | Candidate=93.130 | Current=93.130 | Best=93.618 | Delta=0.000 | Prob=1.0000 | T=0.7924 | Swap=[Lightning Mauler] -> [Hellspark Elemental] | Accepted=True
+Step=80 | Candidate=93.243 | Current=93.243 | Best=93.618 | Delta=0.112 | Prob=1.0000 | T=0.7744 | Swap=[Hellspark Elemental] -> [Burning-Tree Emissary] | Accepted=True
+Step=81 | Candidate=93.514 | Current=93.514 | Best=93.618 | Delta=0.271 | Prob=1.0000 | T=0.7568 | Swap=[Stromkirk Noble] -> [Hellrider] | Accepted=True
+Step=82 | Candidate=93.300 | Current=93.300 | Best=93.618 | Delta=-0.214 | Prob=1.0000 | T=0.7396 | Swap=[Keldon Marauders] -> [Ember Hauler] | Accepted=True
+Step=83 | Candidate=93.443 | Current=93.443 | Best=93.618 | Delta=0.143 | Prob=1.0000 | T=0.7227 | Swap=[Lava Spike] -> [Tormod's Crypt] | Accepted=True
+Step=84 | Candidate=93.296 | Current=93.296 | Best=93.618 | Delta=-0.147 | Prob=1.0000 | T=0.7063 | Swap=[Lightning Mauler] -> [Chandra's Phoenix] | Accepted=True
+Step=85 | Candidate=93.380 | Current=93.380 | Best=93.618 | Delta=0.085 | Prob=1.0000 | T=0.6902 | Swap=[Tormod's Crypt] -> [Rift Bolt] | Accepted=True
+Step=86 | Candidate=93.704 | Current=93.704 | Best=93.704 | Delta=0.324 | Prob=1.0000 | T=0.6745 | Swap=[Goblin Piledriver] -> [Hellrider] | Accepted=True
+Step=87 | Candidate=93.662 | Current=93.662 | Best=93.704 | Delta=-0.042 | Prob=1.0000 | T=0.6591 | Swap=[Spikeshot Elder] -> [Goblin Matron] | Accepted=True
+Step=88 | Candidate=93.542 | Current=93.662 | Best=93.704 | Delta=-0.120 | Prob=1.0000 | T=0.6441 | Swap=[Price of Progress] -> [Cavern of Souls] | Accepted=False
+Step=89 | Candidate=93.806 | Current=93.806 | Best=93.806 | Delta=0.144 | Prob=1.0000 | T=0.6295 | Swap=[Pyreheart Wolf] -> [Lightning Mauler] | Accepted=True
+Step=90 | Candidate=93.736 | Current=93.736 | Best=93.806 | Delta=-0.069 | Prob=1.0000 | T=0.6151 | Swap=[Goblin Matron] -> [Mogg Fanatic] | Accepted=True
+Step=91 | Candidate=93.500 | Current=93.736 | Best=93.806 | Delta=-0.236 | Prob=1.0000 | T=0.6011 | Swap=[Stingscourger] -> [Flinthoof Boar] | Accepted=False
+Step=92 | Candidate=93.849 | Current=93.849 | Best=93.849 | Delta=0.113 | Prob=1.0000 | T=0.5874 | Swap=[Reckless Waif] -> [Hellrider] | Accepted=True
+Step=93 | Candidate=93.959 | Current=93.959 | Best=93.959 | Delta=0.110 | Prob=1.0000 | T=0.5741 | Swap=[Burning-Tree Emissary] -> [Firedrinker Satyr] | Accepted=True
+Step=94 | Candidate=94.055 | Current=93.959 | Best=93.959 | Delta=0.096 | Prob=1.0000 | T=0.5610 | Swap=[Mogg Fanatic] -> [Boros Reckoner] | Accepted=False
+Step=95 | Candidate=93.767 | Current=93.767 | Best=93.959 | Delta=-0.192 | Prob=1.0000 | T=0.5482 | Swap=[Chandra's Phoenix] -> [Grim Lavamancer] | Accepted=True
+Step=96 | Candidate=93.554 | Current=93.767 | Best=93.959 | Delta=-0.213 | Prob=1.0000 | T=0.5358 | Swap=[Lightning Mauler] -> [Rakdos Cackler] | Accepted=False
+Step=97 | Candidate=93.824 | Current=93.824 | Best=93.959 | Delta=0.057 | Prob=1.0000 | T=0.5236 | Swap=[Fanatic of Mogis] -> [Chandra's Phoenix] | Accepted=True
+Step=98 | Candidate=93.824 | Current=93.824 | Best=93.959 | Delta=0.000 | Prob=1.0000 | T=0.5116 | Swap=[Firedrinker Satyr] -> [Grim Lavamancer] | Accepted=True
+Step=99 | Candidate=93.500 | Current=93.500 | Best=93.959 | Delta=-0.324 | Prob=1.0000 | T=0.5000 | Swap=[Hellrider] -> [Stonewright] | Accepted=True
+Step=100 | Candidate=93.613 | Current=93.613 | Best=93.959 | Delta=0.113 | Prob=1.0000 | T=0.4886 | Swap=[Grim Lavamancer] -> [Chandra's Phoenix] | Accepted=True
+Step=101 | Candidate=93.733 | Current=93.733 | Best=93.959 | Delta=0.120 | Prob=1.0000 | T=0.4775 | Swap=[Goblin Sharpshooter] -> [Goblin Bushwhacker] | Accepted=True
+Step=102 | Candidate=93.573 | Current=93.573 | Best=93.959 | Delta=-0.160 | Prob=1.0000 | T=0.4666 | Swap=[Arc Trail] -> [Wooded Foothills] | Accepted=True
+Step=103 | Candidate=93.653 | Current=93.653 | Best=93.959 | Delta=0.080 | Prob=1.0000 | T=0.4560 | Swap=[Ember Hauler] -> [Goblin Guide] | Accepted=True
+Step=104 | Candidate=93.711 | Current=93.711 | Best=93.959 | Delta=0.057 | Prob=1.0000 | T=0.4456 | Swap=[Goblin Bushwhacker] -> [Lightning Mauler] | Accepted=True
+Step=105 | Candidate=93.632 | Current=93.632 | Best=93.959 | Delta=-0.079 | Prob=1.0000 | T=0.4355 | Swap=[Burning-Tree Emissary] -> [Zealous Conscripts] | Accepted=True
+Step=106 | Candidate=93.711 | Current=93.711 | Best=93.959 | Delta=0.079 | Prob=1.0000 | T=0.4256 | Swap=[Zealous Conscripts] -> [Goblin Warchief] | Accepted=True
+Step=107 | Candidate=93.829 | Current=93.829 | Best=93.959 | Delta=0.118 | Prob=1.0000 | T=0.4159 | Swap=[Rift Bolt] -> [Arid Mesa] | Accepted=True
+Step=108 | Candidate=93.961 | Current=93.829 | Best=93.959 | Delta=0.132 | Prob=1.0000 | T=0.4064 | Swap=[Mogg Fanatic] -> [Lightning Mauler] | Accepted=False
+Step=109 | Candidate=93.714 | Current=93.714 | Best=93.959 | Delta=-0.115 | Prob=1.0000 | T=0.3972 | Swap=[Stonewright] -> [Mogg War Marshal] | Accepted=True
+Step=110 | Candidate=93.701 | Current=93.701 | Best=93.959 | Delta=-0.013 | Prob=1.0000 | T=0.3881 | Swap=[Goblin Guide] -> [Chandra's Phoenix] | Accepted=True
+Step=111 | Candidate=93.740 | Current=93.740 | Best=93.959 | Delta=0.039 | Prob=1.0000 | T=0.3793 | Swap=[Shrine of Burning Rage] -> [Pyrostatic Pillar] | Accepted=True
+Step=112 | Candidate=93.590 | Current=93.590 | Best=93.959 | Delta=-0.151 | Prob=1.0000 | T=0.3707 | Swap=[Chandra's Phoenix] -> [Reckless Waif] | Accepted=True
+Step=113 | Candidate=93.718 | Current=93.718 | Best=93.959 | Delta=0.128 | Prob=1.0000 | T=0.3622 | Swap=[Reckless Waif] -> [Keldon Marauders] | Accepted=True
+Step=114 | Candidate=93.769 | Current=93.769 | Best=93.959 | Delta=0.051 | Prob=1.0000 | T=0.3540 | Swap=[Flinthoof Boar] -> [Manic Vandal] | Accepted=True
+Step=115 | Candidate=93.910 | Current=93.910 | Best=93.959 | Delta=0.141 | Prob=1.0000 | T=0.3459 | Swap=[Lightning Bolt] -> [Stomping Ground] | Accepted=True
+Step=116 | Candidate=93.873 | Current=93.873 | Best=93.959 | Delta=-0.037 | Prob=1.0000 | T=0.3380 | Swap=[Spikeshot Elder] -> [Flinthoof Boar] | Accepted=True
+Step=117 | Candidate=93.848 | Current=93.848 | Best=93.959 | Delta=-0.025 | Prob=1.0000 | T=0.3303 | Swap=[Grim Lavamancer] -> [Flinthoof Boar] | Accepted=True
+Step=118 | Candidate=93.633 | Current=93.848 | Best=93.959 | Delta=-0.215 | Prob=1.0000 | T=0.3228 | Swap=[Flinthoof Boar] -> [Vulshok Refugee] | Accepted=False
+Step=119 | Candidate=93.848 | Current=93.848 | Best=93.959 | Delta=0.000 | Prob=1.0000 | T=0.3155 | Swap=[Lightning Mauler] -> [Goblin Chieftain] | Accepted=True
+Step=120 | Candidate=93.575 | Current=93.575 | Best=93.959 | Delta=-0.273 | Prob=1.0000 | T=0.3083 | Swap=[Chandra's Phoenix] -> [Grim Lavamancer] | Accepted=True
+Step=121 | Candidate=93.900 | Current=93.900 | Best=93.959 | Delta=0.325 | Prob=1.0000 | T=0.3013 | Swap=[Stingscourger] -> [Ember Hauler] | Accepted=True
+Step=122 | Candidate=93.688 | Current=93.688 | Best=93.959 | Delta=-0.213 | Prob=1.0000 | T=0.2944 | Swap=[Zealous Conscripts] -> [Vulshok Refugee] | Accepted=True
+Step=123 | Candidate=93.450 | Current=93.688 | Best=93.959 | Delta=-0.237 | Prob=1.0000 | T=0.2877 | Swap=[Hellrider] -> [Reckless Waif] | Accepted=False
+Step=124 | Candidate=93.605 | Current=93.688 | Best=93.959 | Delta=-0.083 | Prob=1.0000 | T=0.2812 | Swap=[Manic Vandal] -> [Grim Lavamancer] | Accepted=False
+Step=125 | Candidate=93.802 | Current=93.802 | Best=93.959 | Delta=0.115 | Prob=1.0000 | T=0.2748 | Swap=[Mogg War Marshal] -> [Ash Zealot] | Accepted=True
+Step=126 | Candidate=93.914 | Current=93.914 | Best=93.959 | Delta=0.111 | Prob=1.0000 | T=0.2685 | Swap=[Mogg Fanatic] -> [Burning-Tree Emissary] | Accepted=True
+Step=127 | Candidate=93.741 | Current=93.741 | Best=93.959 | Delta=-0.173 | Prob=1.0000 | T=0.2624 | Swap=[Goblin Chieftain] -> [Firefist Striker] | Accepted=True
+Step=128 | Candidate=93.622 | Current=93.622 | Best=93.959 | Delta=-0.119 | Prob=1.0000 | T=0.2564 | Swap=[Hellrider] -> [Goblin Ringleader] | Accepted=True
+Step=129 | Candidate=93.463 | Current=93.463 | Best=93.959 | Delta=-0.159 | Prob=1.0000 | T=0.2506 | Swap=[Goblin Ringleader] -> [Plated Geopede] | Accepted=True
+Step=130 | Candidate=93.451 | Current=93.451 | Best=93.959 | Delta=-0.012 | Prob=1.0000 | T=0.2449 | Swap=[Hellrider] -> [Firedrinker Satyr] | Accepted=True
+Step=131 | Candidate=93.646 | Current=93.646 | Best=93.959 | Delta=0.195 | Prob=1.0000 | T=0.2393 | Swap=[Keldon Marauders] -> [Stingscourger] | Accepted=True
+Step=132 | Candidate=93.337 | Current=93.646 | Best=93.959 | Delta=-0.309 | Prob=1.0000 | T=0.2339 | Swap=[Firefist Striker] -> [Rakdos Cackler] | Accepted=False
+Step=133 | Candidate=93.482 | Current=93.646 | Best=93.959 | Delta=-0.164 | Prob=1.0000 | T=0.2285 | Swap=[Plated Geopede] -> [Burning-Tree Emissary] | Accepted=False
+Step=134 | Candidate=93.301 | Current=93.646 | Best=93.959 | Delta=-0.345 | Prob=1.0000 | T=0.2233 | Swap=[Hellrider] -> [Ember Hauler] | Accepted=False
+Step=135 | Candidate=93.542 | Current=93.542 | Best=93.959 | Delta=-0.104 | Prob=1.0000 | T=0.2183 | Swap=[Manic Vandal] -> [Goblin Chieftain] | Accepted=True
+Step=136 | Candidate=93.548 | Current=93.548 | Best=93.959 | Delta=0.005 | Prob=1.0000 | T=0.2133 | Swap=[Lightning Mauler] -> [Hellspark Elemental] | Accepted=True
+Step=137 | Candidate=93.583 | Current=93.583 | Best=93.959 | Delta=0.036 | Prob=1.0000 | T=0.2084 | Swap=[Ash Zealot] -> [Hellrider] | Accepted=True
+Step=138 | Candidate=93.607 | Current=93.607 | Best=93.959 | Delta=0.024 | Prob=1.0000 | T=0.2037 | Swap=[Firedrinker Satyr] -> [Manic Vandal] | Accepted=True
+Step=139 | Candidate=93.488 | Current=93.488 | Best=93.959 | Delta=-0.119 | Prob=1.0000 | T=0.1991 | Swap=[Stingscourger] -> [Spikeshot Elder] | Accepted=True
+Step=140 | Candidate=93.612 | Current=93.612 | Best=93.959 | Delta=0.124 | Prob=1.0000 | T=0.1945 | Swap=[Price of Progress] -> [Pillar of Flame] | Accepted=True
+Step=141 | Candidate=93.588 | Current=93.612 | Best=93.959 | Delta=-0.024 | Prob=1.0000 | T=0.1901 | Swap=[Grim Lavamancer] -> [Rakdos Cackler] | Accepted=False
+Step=142 | Candidate=93.576 | Current=93.576 | Best=93.959 | Delta=-0.035 | Prob=1.0000 | T=0.1858 | Swap=[Stingscourger] -> [Stonewright] | Accepted=True
+Step=143 | Candidate=93.388 | Current=93.576 | Best=93.959 | Delta=-0.188 | Prob=1.0000 | T=0.1815 | Swap=[Pillar of Flame] -> [Shrine of Burning Rage] | Accepted=False
+Step=144 | Candidate=93.384 | Current=93.576 | Best=93.959 | Delta=-0.193 | Prob=1.0000 | T=0.1774 | Swap=[Goblin Warchief] -> [Pyreheart Wolf] | Accepted=False
+Step=145 | Candidate=93.453 | Current=93.576 | Best=93.959 | Delta=-0.123 | Prob=1.0000 | T=0.1734 | Swap=[Stonewright] -> [Gore-House Chainwalker] | Accepted=False
+Step=146 | Candidate=93.721 | Current=93.721 | Best=93.959 | Delta=0.144 | Prob=1.0000 | T=0.1694 | Swap=[Spikeshot Elder] -> [Hellspark Elemental] | Accepted=True
+Step=147 | Candidate=93.616 | Current=93.721 | Best=93.959 | Delta=-0.105 | Prob=1.0000 | T=0.1656 | Swap=[Pillar of Flame] -> [Smash to Smithereens] | Accepted=False
+Step=148 | Candidate=93.586 | Current=93.721 | Best=93.959 | Delta=-0.135 | Prob=1.0000 | T=0.1618 | Swap=[Goblin Warchief] -> [Reckless Waif] | Accepted=False
+Step=149 | Candidate=93.494 | Current=93.494 | Best=93.959 | Delta=-0.227 | Prob=1.0000 | T=0.1581 | Swap=[Burning-Tree Emissary] -> [Stingscourger] | Accepted=True
+Step=150 | Candidate=93.874 | Current=93.874 | Best=93.959 | Delta=0.379 | Prob=1.0000 | T=0.1545 | Swap=[Stonewright] -> [Goblin Ringleader] | Accepted=True
+Step=151 | Candidate=93.770 | Current=93.770 | Best=93.959 | Delta=-0.103 | Prob=1.0000 | T=0.1510 | Swap=[Stingscourger] -> [Burning-Tree Emissary] | Accepted=True
+Step=152 | Candidate=93.716 | Current=93.716 | Best=93.959 | Delta=-0.054 | Prob=1.0000 | T=0.1476 | Swap=[Pillar of Flame] -> [Searing Spear] | Accepted=True
+Step=153 | Candidate=93.864 | Current=93.864 | Best=93.959 | Delta=0.148 | Prob=1.0000 | T=0.1442 | Swap=[Firefist Striker] -> [Hellrider] | Accepted=True
+Step=154 | Candidate=93.830 | Current=93.830 | Best=93.959 | Delta=-0.034 | Prob=1.0000 | T=0.1409 | Swap=[Goblin Warchief] -> [Stromkirk Noble] | Accepted=True
+Step=155 | Candidate=93.864 | Current=93.864 | Best=93.959 | Delta=0.034 | Prob=1.0000 | T=0.1377 | Swap=[Searing Spear] -> [Bump in the Night] | Accepted=True
+Step=156 | Candidate=93.742 | Current=93.864 | Best=93.959 | Delta=-0.122 | Prob=1.0000 | T=0.1346 | Swap=[Stromkirk Noble] -> [Goblin Matron] | Accepted=False
+Step=157 | Candidate=93.629 | Current=93.864 | Best=93.959 | Delta=-0.234 | Prob=1.0000 | T=0.1315 | Swap=[Goblin Chieftain] -> [Ember Hauler] | Accepted=False
+Step=158 | Candidate=93.809 | Current=93.809 | Best=93.959 | Delta=-0.055 | Prob=1.0000 | T=0.1285 | Swap=[Goblin Ringleader] -> [Ash Zealot] | Accepted=True
+Step=159 | Candidate=93.764 | Current=93.809 | Best=93.959 | Delta=-0.045 | Prob=1.0000 | T=0.1256 | Swap=[Hellspark Elemental] -> [Goblin Bushwhacker] | Accepted=False
+Step=160 | Candidate=93.889 | Current=93.889 | Best=93.959 | Delta=0.080 | Prob=1.0000 | T=0.1227 | Swap=[Plated Geopede] -> [Keldon Marauders] | Accepted=True
+Step=161 | Candidate=93.644 | Current=93.889 | Best=93.959 | Delta=-0.244 | Prob=1.0000 | T=0.1199 | Swap=[Chandra's Phoenix] -> [Grim Lavamancer] | Accepted=False
+Step=162 | Candidate=93.767 | Current=93.889 | Best=93.959 | Delta=-0.122 | Prob=1.0000 | T=0.1172 | Swap=[Flinthoof Boar] -> [Grim Lavamancer] | Accepted=False
+Step=163 | Candidate=93.811 | Current=93.811 | Best=93.959 | Delta=-0.078 | Prob=1.0000 | T=0.1145 | Swap=[Ash Zealot] -> [Goblin Sharpshooter] | Accepted=True
+Step=164 | Candidate=93.802 | Current=93.802 | Best=93.959 | Delta=-0.009 | Prob=1.0000 | T=0.1119 | Swap=[Hellrider] -> [Mogg Fanatic] | Accepted=True
+Step=165 | Candidate=93.593 | Current=93.802 | Best=93.959 | Delta=-0.209 | Prob=1.0000 | T=0.1094 | Swap=[Vulshok Refugee] -> [Chandra's Phoenix] | Accepted=False
+Step=166 | Candidate=93.692 | Current=93.692 | Best=93.959 | Delta=-0.110 | Prob=1.0000 | T=0.1069 | Swap=[Mogg Fanatic] -> [Zealous Conscripts] | Accepted=True
+Step=167 | Candidate=93.846 | Current=93.846 | Best=93.959 | Delta=0.154 | Prob=1.0000 | T=0.1045 | Swap=[Bump in the Night] -> [Flames of the Blood Hand] | Accepted=True
+Step=168 | Candidate=93.685 | Current=93.846 | Best=93.959 | Delta=-0.161 | Prob=1.0000 | T=0.1021 | Swap=[Goblin Chieftain] -> [Mogg Fanatic] | Accepted=False
+Step=169 | Candidate=93.967 | Current=93.846 | Best=93.959 | Delta=0.121 | Prob=1.0000 | T=0.0998 | Swap=[Burning-Tree Emissary] -> [Ash Zealot] | Accepted=False
+Step=170 | Candidate=93.587 | Current=93.846 | Best=93.959 | Delta=-0.259 | Prob=1.0000 | T=0.0975 | Swap=[Hellspark Elemental] -> [Boros Reckoner] | Accepted=False
+Step=171 | Candidate=93.880 | Current=93.880 | Best=93.959 | Delta=0.034 | Prob=1.0000 | T=0.0953 | Swap=[Chandra's Phoenix] -> [Zealous Conscripts] | Accepted=True
+Step=172 | Candidate=93.634 | Current=93.880 | Best=93.959 | Delta=-0.246 | Prob=1.0000 | T=0.0931 | Swap=[Chandra's Phoenix] -> [Frostburn Weird] | Accepted=False
+Step=173 | Candidate=93.978 | Current=93.978 | Best=93.978 | Delta=0.098 | Prob=1.0000 | T=0.0910 | Swap=[Goblin Sharpshooter] -> [Goblin Chieftain] | Accepted=True
